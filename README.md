@@ -1,6 +1,6 @@
 Hi there 👋 
 
-My name is Dmitry, and  I'm a **data scientist**🔮 in , [public speaker](https://www.codeinstinct.pro/2013/04/about.html) and [sometimes a writer](https://t.me/finartai).
+My name is Dmitry, and  I'm a **data scientist**🔮, [public speaker](https://www.codeinstinct.pro/2013/04/about.html) and [sometimes a writer](https://t.me/finartai).
 
 For the last 10+ years I have been **applying machine learning** 🤖 to the **financial sector** (traditional and blockchain).
 

@@ -1,23 +1,18 @@
-Hi there 👋 
+**Hi there** 👋 I'm [Dmitry][aboutme] 💻
 
-My name is Dmitry, and  I'm a **data scientist**🔮, [public speaker](https://www.codeinstinct.pro/2013/04/about.html) and [sometimes a writer](https://t.me/finartai).
+### I'm a Consultant, a Data scientist 🔮, Speaker and sometimes a Writer!
 
-For the last 10+ years I have been **applying machine learning** 🤖 to the **financial sector** (traditional and blockchain).
+For the last 10+ years I have been applying **Machine learning** 🤖 to the **Financial sector** (traditional and blockchain) cases. 
+
+And I write about it on [@FinArtAI][finartai] channel in Telegram.
 
 <details>
   <summary>⚓️ Keep in Touch</summary>
-  
-  <div style="margin-top:16px">
-  <a href="https://twitter.com/codez0mb1e" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codez0mb1e" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dpetukhov" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dpetuknov" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/1507068" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1507068" height="30" width="40" />
-  </a>
-  </div>
+
+  [<img style="width:32px; height:32px; padding:6px;" src="https://cdn.simpleicons.org/stackoverflow/F58025" />][stackoverflow]
+  [<img style="width:32px; height:32px; padding:6px;" src="https://cdn.simpleicons.org/twitter/1DA1F2" />][twitter]
+  [<img style="width:32px; height:32px; padding:6px;" src="https://cdn.simpleicons.org/linkedin/0A66C2" />][linkedin]
+
 </details>
 
 <details>
@@ -35,7 +30,8 @@ For the last 10+ years I have been **applying machine learning** 🤖 to the **f
 🐙 Git 🐧Linux ⚓️Scrum 🐍 Python ☁️DevOps 🐳Docker :octocat: GitHub
 -->
 
-
-
-
-
+[aboutme]: https://www.codeinstinct.pro/2013/04/about.html
+[twitter]: https://twitter.com/codez0mb1e
+[linkedin]: https://www.linkedin.com/in/dpetukhov/
+[stackoverflow]: https://stackoverflow.com/users/1507068/codez0mb1e
+[finartai]: https://t.me/finartai

@@ -1,8 +1,8 @@
 **Hi there** 👋 I'm [Dmitry][aboutme] 💻
 
-### I'm a Consultant, a Data scientist 🔮, Speaker and sometimes a Writer!
+### I'm a Technology Consultant, Data Scientist 🔮, and Speaker!
 
-For the last 10+ years I have been applying **Machine learning** 🤖 to the **Financial sector** (traditional and blockchain) cases. 
+For the last 7+ years, I have been successfully applying **Machine Learning** 🤖 to the **Financial sector** (traditional and *blockchain*) cases. 
 
 And I write about it on [@FinArtAI][finartai] channel in Telegram.
 
